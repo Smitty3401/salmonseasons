@@ -1,0 +1,197 @@
+
+
+
+/* Header **/
+
+header h1 {
+    text-align: center; 
+}
+        * {
+            font-size: 100%;
+            /*border: 1px solid red; */
+
+        }
+            * {
+            font-size: 100%;
+            margin: 0;
+            line-height: 1;
+            /*border: 1px solid red;*/ 
+
+
+}
+p {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    margin-left: 0;
+}
+h1 {
+margin-bottom: 40px;
+
+}
+
+
+header{
+    
+    background: #da531a3e;
+    color:#ffffff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #490405 3px solid;
+}
+
+
+
+header {
+    text-align: center; 
+}
+header a{
+    color:#85c69f;
+    text-decoration:rgb(40, 167, 36);
+    text-transform: uppercase;
+    font-size: 24px;
+}
+
+
+ul {
+    float:right; 
+    text-decoration: #85c69f;
+    font-size: 24px;
+}
+
+
+header li{
+    float:inline-start;
+    display:inline;
+    padding: 0 20px 0 20px 
+}
+h1 {
+    color:rgb(18, 101, 38) 
+
+}
+h1 {font-family: Papyrus, fantasy; font-size: 50px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 45.3px; 
+    color:aquamarine;
+
+}
+a {
+    color:#3f3fdc;font-size: 20px;
+    text-decoration:underline;
+    padding-bottom: 10px ;
+}
+
+h2 { font-family: Papyrus, fantasy; font-size: 45px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 45.3px; 
+
+}
+a {
+    text-decoration:none;
+    color:aqua;
+    text-align: right;
+}
+
+
+a:hover {
+    text-decoration: none;
+    color:rgb(55, 227, 170);
+}
+a:link,
+a:focus,
+a:active {
+    text-decoration: underline;
+}
+a:visited {
+    color: grey;
+}
+
+h2 {
+    color:aqua;
+    font-size: 24px;
+    color:rgb(40, 167, 36)
+
+}
+p { font-family: Papyrus, fantasy; font-size: 26px ; font-style: normal; font-variant: normal; font-weight: 400; line-height:normal;
+    color:rgb(57, 224, 23)
+    
+}
+h3 {font-family:Papyrus, fantasy; font-size: 26px ; font-style: normal; font-variant: normal; font-weight: 400; line-height:normal;
+    color:rgb(33, 211, 101);
+    text-align: center;
+    text-decoration-line: underline;
+     
+   
+
+}
+body {
+    color: rgb(24, 20, 20);
+    background-color: rgb(4, 79, 34);
+
+}
+body{
+    background-color: rgb(7, 105, 56);
+    color: black;
+    font-family: Helvetica;
+    font-size: 16px;
+    margin: 50px;
+}
+    p{
+    margin: 15px 0;
+ }
+ul {
+    margin: 16px 0;
+}
+
+h1 {
+font-family: Papyrus, fantasy; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
+}
+
+h1 h2, h3 {margin-bottom: 20px;
+
+}
+header #branding{
+    float: center; 
+}
+
+header #branding{
+    margin:0;
+}
+
+a{
+    font-size: 16px;
+}
+.bear{
+    float:right; 
+}
+
+.container {
+    max-width: 1000px; 
+
+}
+div {
+    margin: 0; 
+}
+.box{
+    background-image: img(IMG/desktopjpg);
+    width: 100px;
+    height: 100px; 
+}
+body {
+    background-image: img(IMG/desktopjpg); 
+}
+.banner {
+    height: 350px;
+    background-image: img(images/desktopjpg);
+    background-size: cover; 
+}
+
+.photo{
+    background-position: 50% right;
+}
+* {
+    font-size: 100%;
+    margin: 0;
+    line-height: 1;
+    box-sizing: border-box;
+    /*border: 1px solid red; */
+}
+img {
+    height:200px;
+}
